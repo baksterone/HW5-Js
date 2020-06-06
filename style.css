@@ -19,6 +19,7 @@
 button{
     padding: 5px;
     margin-top: 10px;
+    margin-bottom: 10px;
     color: red;
     background-color: #000;
     border: 1px solid red;
