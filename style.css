@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    padding-top: 200px;
+    min-height: 100vh;
+    background-color: #000;
+}
+
+.container{
+    text-align: center;
+    font-family: 'Geostar Fill', cursive;
+    font-size: 30px;
+    color: red;
+}
+
+button{
+    padding: 5px;
+    margin-top: 10px;
+    color: red;
+    background-color: #000;
+    border: 1px solid red;
+    font-family: 'Geostar Fill', cursive;
+    font-size: 20px;
+}
